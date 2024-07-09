@@ -20,5 +20,6 @@ app.use(queryformrouter)
 app.use(router)
 
 app.listen(8000,()=>{
-  console.log(`server running @ http://localhost:8000`)
+  // console.log(`server running @ http://localhost:8000`)
+  resizeBy.write("hello vaibhavi")
 })
