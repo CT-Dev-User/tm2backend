@@ -23,3 +23,4 @@ app.use(router)
 //   console.log(`server running @ http://localhost:8000`)
 //   // res.write("hello vaibhavi")
 // })
+export default app;
